@@ -1,6 +1,6 @@
 ## About Weather Dashboard
 
-Weather dashboard is build to display a weather map information in simple way and lightweight. The data is acquired using a weather modelling system in another server. The weather information available from this dashboard consist of:
+Weather dashboard is build to display a weather data information in simple way and lightweight. The data is acquired using a weather modelling system and observation station in another server. The weather information available from this dashboard consist of:
 
 - Air Temperature
 - Wind Speed and Direction
